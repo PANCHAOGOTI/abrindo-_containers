@@ -1,0 +1,19 @@
+.poggers{
+   display: flex;
+   width: 1000px;
+   justify-content: space-between;
+   height: 500px;
+}
+.coluna1{
+    width: 200px;
+    background-image: url(coutinho.png);
+    background-size: cover;
+}
+.coluna{
+    background-color: grey;
+    width: 200px;
+}
+.site{
+    display: flex;
+    justify-content: center;
+}

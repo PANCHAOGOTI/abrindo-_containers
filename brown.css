@@ -1,0 +1,21 @@
+.caixa{
+    width: 313.33px;
+    height: 200px;
+    background-color: silver;
+}
+.caixapogg{
+    background-color: silver;
+    width: 656.66px;
+    height: 200px;
+    background-image: url(CRVascodaGama.png);
+    background-size: cover;
+}
+.linha{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+#site{
+    width: 1000px;
+    margin: 0 auto;
+}
